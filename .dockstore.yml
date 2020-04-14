@@ -5,3 +5,8 @@ workflows:
      testParameterFiles:
      - /test/dockstore.cwl.json
      name: foobar1
+   - subclass: cwl
+     primaryDescriptorPath: /Dockstore.cwl
+     testParameterFiles:
+     - /test/dockstore.cwl.json
+     name: tomigrate

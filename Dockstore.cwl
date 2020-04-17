@@ -1,6 +1,9 @@
 cwlVersion: v1.0
 class: Workflow
 doc: this is a description
+dct:creator:
+  foaf:name: Natalie
+  foaf:mbox: myemail@email.com
 
 inputs:
   input_file: File

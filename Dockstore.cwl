@@ -1,6 +1,6 @@
 cwlVersion: v1.0
 class: Workflow
-doc: this is a description
+doc: updated description
 dct:creator:
   foaf:name: Natalie
   foaf:mbox: myemail@email.com

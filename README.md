@@ -1,2 +1,2 @@
 # ghapps-single-workflow
-push
+GitHub App push

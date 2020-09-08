@@ -1,5 +1,5 @@
 version: 1.2
-workflows:
+workflow:
    - subclass: cwl
      primaryDescriptorPath: /test/Dockstore.cwl
      testParameterFiles:

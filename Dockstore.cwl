@@ -1,6 +1,6 @@
 cwlVersion: v1.0
 class: Workflow
-doc: updated description testing
+doc: updated description testing 1.9.2
 dct:creator:
   foaf:name: Natalie
   foaf:mbox: myemail@email.com

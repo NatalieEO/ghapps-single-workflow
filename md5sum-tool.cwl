@@ -11,7 +11,7 @@ $namespaces:
 
 requirements:
 - class: DockerRequirement
-  dockerPull: ubuntu@sha256:45b23dee08af5e43a7fea6c4cf9c25ccf269ee113168c19722f87876677c5cb2
+  dockerPull: quay.io/natalieeo/dockstore-tool-md5sum@sha256:a5d3c13594fde47c8a8e909f1ea61e640b9a457f71076b716f7f0df1da79541c
 - class: InlineJavascriptRequirement
 
 hints:

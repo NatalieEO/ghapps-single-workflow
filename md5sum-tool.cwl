@@ -11,7 +11,7 @@ $namespaces:
 
 requirements:
 - class: DockerRequirement
-  dockerPull: quay.io/agduncan94/my-md5sum
+  dockerPull: quay.io/natalieeo/dockstore-tool-md5sum:testing
 - class: InlineJavascriptRequirement
 
 hints:

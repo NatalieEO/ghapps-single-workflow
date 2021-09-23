@@ -6,6 +6,7 @@ workflows:
      - /test/dockstore.cwl.json
      authors:
        - name: Denis Yuen
+         affiliation: OICR
          orcid: 0000-0002-6130-1021
        - name: UCSC Genomics Institute
          role: Institute

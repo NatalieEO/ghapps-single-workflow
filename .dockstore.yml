@@ -8,6 +8,6 @@ workflows:
        - name: Natalie
          role: dev
          affiliation: UCSC
-       - name: UCSC Genomics Institute
+       - name: UCSC GI
          role: Institute
          affiliation: UCSC
